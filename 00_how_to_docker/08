@@ -1,0 +1,4 @@
+docker run -i -t --rm alpine /bin/sh
+
+# -i -- open stdin
+# -t -- allocate a pseudo-TTY
